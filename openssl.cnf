@@ -20,4 +20,4 @@ subjectAltName = @alt_names
 [alt_names]
 DNS.1 = *.gamora.prod
 DNS.2 = *.ops-klprod.gamora.prod
-
+DNS.3 = *.sc-t1prod.gamora.prod
